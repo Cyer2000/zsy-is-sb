@@ -1,6 +1,7 @@
 {
   "pages":[
-    "pages/demo01/demo01"
+    "pages/patient_index/patient_index",
+    "pages/demo01/demo01"    
   ],
   "window":{
     "backgroundTextStyle":"light",
